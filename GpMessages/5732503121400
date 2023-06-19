@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: 19 июня 2023 г. 12:55:07</msg><msg code="-2147467259" type="100">Traceback (most recent call last):
+  File "C:\maps\l-35-1\VM Toolbox.atbx#HouseConversion_NewToolbox.py", line 17, in &lt;module&gt;
+AttributeError: '_passthrough' object has no attribute 'pointCount'
+</msg><msg code="0" type="0">Failed script (null)...</msg><msg code="-2147467259" type="100">Failed to execute (HouseConversion).</msg><msg code="0" type="3">Failed at 19 июня 2023 г. 12:55:09 (Elapsed Time: 1,30 seconds)</msg></messages>
